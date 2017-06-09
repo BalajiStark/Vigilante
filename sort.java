@@ -42,7 +42,7 @@ public class sort{
       flag=0;
   } 
         for(int i=0;i<n;i++)
-           System.out.print(d[i]+" ");
+           System.out.println(d[i]);
 
  
     }
